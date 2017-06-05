@@ -1675,7 +1675,6 @@ AX_VALGRIND_CHECK
 
 AC_OUTPUT(dist.conf
           Makefile
-	  syslog-ng.spec
 	  syslog-ng.pc
 	  syslog-ng-add-contextual-data.pc
           libtest/syslog-ng-test.pc
